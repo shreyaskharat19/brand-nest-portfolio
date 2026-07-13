@@ -75,7 +75,7 @@ export default function HeroSection() {
               {/* Floating cards effect */}
               <div className="absolute inset-0 bg-gradient-to-br from-primary/10 to-accent/10 rounded-3xl" />
               <img
-                src="/manus-storage/hero_mockup_e99948a5.png"
+                src="/images/logo.png"
                 alt="Design Mockup"
                 className="w-full h-full object-cover rounded-3xl shadow-2xl"
               />
