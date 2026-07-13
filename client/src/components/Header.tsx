@@ -44,7 +44,7 @@ export default function Header() {
         {/* Logo */}
         <a href="#home" className="flex items-center gap-2 group">
           <img
-            src="/manus-storage/brand_nest_logo_40a6b373.png"
+            src="/images/logo.png"
             alt="Brand Nest"
             className="w-8 h-8 transition-transform duration-300 group-hover:scale-110"
           />
