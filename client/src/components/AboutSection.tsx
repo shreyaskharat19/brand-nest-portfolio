@@ -22,7 +22,7 @@ export default function AboutSection() {
           <div className="relative animate-in fade-in slide-in-from-left-4 duration-700">
             <div className="relative rounded-3xl overflow-hidden shadow-2xl">
               <img
-                src="/manus-storage/team_illustration_5e72658c.png"
+                src="/images/logo.png"
                 alt="Brand Nest Team"
                 className="w-full h-auto"
               />
