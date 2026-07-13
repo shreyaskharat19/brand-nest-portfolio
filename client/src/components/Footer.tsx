@@ -11,7 +11,7 @@ export default function Footer() {
           <div className="md:col-span-1">
             <div className="flex items-center gap-2 mb-4">
               <img
-                src="/manus-storage/brand_nest_logo_40a6b373.png"
+                src="/images/logo.png"
                 alt="Brand Nest"
                 className="w-8 h-8"
               />
