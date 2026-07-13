@@ -206,7 +206,10 @@ function vitePluginStorageProxy(): Plugin {
 const plugins = [react(), tailwindcss(), jsxLocPlugin(), vitePluginManusRuntime(), vitePluginManusDebugCollector(), vitePluginStorageProxy()];
 
 export default defineConfig({
+  base: "/brand-nest-portfolio/",
   plugins,
+  // rest of your config...
+})
   resolve: {
     alias: {
       "@": path.resolve(import.meta.dirname, "client", "src"),
